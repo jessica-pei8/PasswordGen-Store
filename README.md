@@ -1,5 +1,5 @@
 
-# Password Manager and Generator
+# Password Manager and Generator (For Windows?)
 
 This project is a simple password manager and generator built using Python and Tkinter. It stores the passwords in a .txt file. Additional implementation and changes would focus on making this more secure. 
 
