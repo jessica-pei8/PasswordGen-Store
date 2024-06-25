@@ -17,7 +17,6 @@ This project is a simple password manager and generator built using Python and T
 
 ### Installation
 1. **Clone the repository:**
-2. 
 3. **Install dependencies:**
    ```bash
    # Ensure you have installed Tkinter (usually comes with Python installation)
