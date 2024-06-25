@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import messagebox
 from generator import Generator
 
-# Input from user
 def add():
     username = entryName.get()
     website = entryWeb.get()
@@ -136,9 +135,6 @@ def delete():
             messagebox.showinfo("Success", "No passwords found for deletion.")
     except Exception as e:
         messagebox.showerror("Error", f"Error deleting password(s): {e}")
-
-    
-    
     
 def deleteall():
     try:
